@@ -1,0 +1,8 @@
+streamlit
+requests
+pdfplumber
+pandas
+pytesseract
+pdf2image
+unidecode
+tqdm
